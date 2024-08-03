@@ -1,0 +1,24 @@
+{
+  "name": "jo123p3-build",
+  "version": "1.0.0",
+  "description": "Book Record",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalaKanta25/jo123p3-Build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalaKanta25/jo123p3-Build/issues"
+  },
+  "homepage": "https://github.com/kamalaKanta25/jo123p3-Build#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
